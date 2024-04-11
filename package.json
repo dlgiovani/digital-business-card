@@ -1,8 +1,8 @@
 {
-  "name": "digital-business-cards",
+  "name": "digital-business-card",
   "homepage": "https://dlgiovani.github.io/digital-business-card/",
-  "private": true,
-  "version": "0.0.0",
+  "private": false,
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -25,6 +25,7 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.6",
     "gh-pages": "^6.1.1",
+    "react-router-dom": "^6.22.3",
     "vite": "^5.2.0"
   }
 }

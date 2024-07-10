@@ -51,7 +51,7 @@ function App() {
 
             <div>
               <h2>Interesses</h2>
-              <p>Livros de psicologia e linguística, programação, paisagens, Lo-Fi, culinária, café e cheiro de terra molhada.</p>
+              <p>Livros de psicologia e linguística, programação, paisagens, Lo-Fi, culinária, café, desafios e testes mentais.</p>
             </div>
           </section>
         </section>
